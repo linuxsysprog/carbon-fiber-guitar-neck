@@ -1,0 +1,10 @@
+Slot Width: .58
+Radii:
+
+I	12"
+XII	13"
+
+Stop fret slots 1.5 mm short from each end
+
+F/b width: 60 mm
+

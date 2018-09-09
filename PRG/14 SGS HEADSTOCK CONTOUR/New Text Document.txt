@@ -1,0 +1,9 @@
+depth stack
+f/b 8
+blank 20.9
+pad 6.35
+bit 6mm ball end
+12 cutting portion
+total 32.9
+tabs depth 27.9
+finish depth 23

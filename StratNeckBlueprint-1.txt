@@ -1,0 +1,54 @@
+STEP     OPERATION                     ROUGH TOOL                    FINISH TOOL                   NOTES
+-----------------------------------------------------------------------------------------------------------------------
+                                                                                                                       
+1        Mount blank upside up                                                                                         
+                                                                                                                       
+2        Carve "boat" into neck        6mm ball e/m                  -//-                                              
+                                                                                                                       
+3        Apply carbon fibre                                                                                            
+                                                                                                                       
+4        Thicken down neck                                                                         maintain parallelism
+         with a thicknesser                                                                        between top and     
+         from top and bottom                                                                       bottom              
+                                                                                                                       
+5        Re-mount blank upside down                                                                                    
+                                                                                                                       
+6        Shape neck back profile       6mm ball e/m                  -//-                                              
+                                                                                                                       
+7        Shape heel/neck 3d            -//-                          -//-                                              
+         transition surface                                                                                            
+                                                                                                                       
+8        Shape headstock/neck 3d                                                                                       
+         transition surface            -//-                          -//-                                              
+                                                                                                                       
+9        Re-mount blank upside up                                                                                      
+                                                                                                                       
+10       Recess headstock              12mm face mill                -//-                          the bigger f/m dia 
+                                                                                                   the better          
+                                                                                                                       
+11       Shape headstock/neck 3d       6mm ball e/m                                                                    
+         transition surface                                                                                            
+                                                                                                                       
+12       Drill tuner holes             center drill                                                final hole dia <=8mm; 
+                                       4mm pilot twist drill                                       c/d shank 6mm       
+                                                                     <=8mm twist drill                                 
+                                                                                                                       
+13       Cut-out neck                  6mm hog e/m (*)                5mm e/m (*)                  create tabs along   
+                                                                                                   contour;            
+                                                                                                   finish tool should
+                                                                                                   be smaller than
+                                                                                                   the kurf from the
+                                                                                                   roughing cut
+
+                                                                                                   Notes                                                                                                                  
+                                                                                                                       
+* Recommended: non-serrated, 2- or 4-flute, center-cutting (a.k.a. slot end mill), w/ enough length of the cutting     
+  portion (should cover all neck depth)                                                                                
+
+* Twin neck blank size 860mm x 155 mm x 25 mm; 3 blanks/6 necks in one setup
+
+* For the fixture, we will need:
+    <=6mm twist drill bit for locating pins
+    8mm twist drill bit for clamping bolts
+    and preferably, 6mm bull (not ball; has chamfered tip) end mill to cut out a pocket for resetting machine zero
+    
